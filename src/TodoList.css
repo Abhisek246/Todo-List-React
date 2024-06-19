@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    align-items: center;
+}
+
+li{
+    margin-bottom: 20px;
+}
+
+.task{
+    font-weight: 600;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: rgb(21, 169, 214);
+}
